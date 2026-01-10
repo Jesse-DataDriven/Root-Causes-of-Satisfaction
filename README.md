@@ -1,14 +1,7 @@
 # Root Causes of Satisfaction | Jornada do Cliente Salesforce
 
 ## 📊 Demonstração do Projeto
-<table>
-  <tr>
-    <td><b>Página 1: Volumetria e Mapa de Causa Raiz</b></td>
-    <td><b>Página 2: Estratificação e bases
-  </tr>
-  <tr>
-    <td><img src="https://i.postimg.cc/Xvzkc9n1/Página_1_Mapeamento.gif"></td>
-    <td><img src="https://i.postimg.cc/XY2f49Bs/Página_2_estratificação.gif"></td>
+Devido LGPD e normas reguladoras, não poderei imprimir o front para demonstrar, porém, no código é possível verificar toda estrutura e camada codal para chegar a causas raízes de satisfação.
 
 ## 📌 Visão Geral
 Projeto integrado ao Salesforce capaz de mapear a causa raiz de insatisfação versus o histórico de atendimento. A modelagem reconstrói a jornada completa do cliente, gerando uma matriz de decisão para organizar dados não estruturados em pilares estratégicos de causa raiz.
