@@ -1,3 +1,9 @@
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+![Inteligência Ativa](https://img.shields.io/badge/IA-Inteligência%20Ativa-9467bd)
+![PNL](https://img.shields.io/badge/PNL-Processamento%20de%20Linguagem%20Natural-8c2be3)
+![Mapa Mental](https://img.shields.io/badge/Mapa-Mental-2ca02c)
+![Causa Raiz](https://img.shields.io/badge/Análise-Causa%20Raiz-ff7f0e)
+
 # Root Causes of Satisfaction | Jornada do Cliente Salesforce
 
 ## 📊 Demonstração do Projeto
